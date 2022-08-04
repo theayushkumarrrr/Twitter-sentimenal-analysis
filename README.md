@@ -1,5 +1,5 @@
 # TwitterSentimentAnalysis
-Twitter sentiment analysis using Naive Bias Classifier built in TextBlob library of python. Extracts data from live twitter feed, based on keywords specified.
+Twitter sentiment analysis using TextBlob library of python. Extracts data from live twitter feed, based on keywords specified.
 
 
 Note: You need to create a Twitter Developer account to run this program.
